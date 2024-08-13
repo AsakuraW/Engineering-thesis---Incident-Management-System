@@ -1,0 +1,224 @@
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe.config
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.pdb
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.AssemblyReference.cache
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Properties.Resources.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.GenerateResource.cache
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.exe
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.pdb
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\SLRDbConnector.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CopyComplete
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Login.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.User_Dashboard.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Dashboard.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.New_report.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_your_reports.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_change_password.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Details.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_home.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_home.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_reports.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Send_to_realization.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Details.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.pdb
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll.config
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_branch.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Logout_request.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_request_list.resources
+D:\Praca_dyplomowa\source\repos\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_request_details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.exe
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe.config
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll.config
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Dashboard.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_request_details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Login.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Logout_request.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.New_report.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Send_to_realization.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.User_Dashboard.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Properties.Resources.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_home.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_reports.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_branch.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_change_password.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_home.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_request_list.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_your_reports.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.GenerateResource.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CopyComplete
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe.config
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.dll.config
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Dashboard.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_request_details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Details.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Login.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Logout_request.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.New_report.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Send_to_realization.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.User_Dashboard.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Properties.Resources.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_home.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_reports.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_branch.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_change_password.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_home.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_request_list.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_your_reports.resources
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.GenerateResource.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CopyComplete
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.exe
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.pdb
+C:\Users\a901346\OneDrive - Atos\Desktop\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Request_realization.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe.config
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\MimeKit.dll.config
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Dashboard.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_request_details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Login.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Logout_request.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.New_report.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Request_realization.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Send_to_realization.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.User_Dashboard.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Properties.Resources.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_home.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_reports.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_branch.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_change_password.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_home.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_request_list.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_your_reports.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.GenerateResource.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CopyComplete
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.exe
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem - Copy\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe.config
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.exe
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\IncidentManagementSystem.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\MimeKit.dll.config
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Dashboard.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_Details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Admin_request_details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Details.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Login.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Logout_request.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.New_report.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Request_realization.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Send_to_realization.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.User_Dashboard.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Properties.Resources.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_home.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_admin_reports.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_branch.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_change_password.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_home.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_request_list.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.UserControls.UC_your_reports.resources
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.GenerateResource.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.csproj.CopyComplete
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.exe
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.pdb
+C:\Users\grace\OneDrive\Pulpit\IncidentManagementSystem\IncidentManagementSystem\obj\Debug\IncidentManagementSystem.Forms.Edit_category.resources
